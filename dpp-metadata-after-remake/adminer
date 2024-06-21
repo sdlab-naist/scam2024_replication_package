@@ -1,0 +1,14 @@
+# this file is generated via https://github.com/TimWolla/docker-adminer/blob/a46dbffde41a1f48f61e5881033a21011f472de1/generate-stackbrew-library.sh
+
+Maintainers: Tim Düsterhus <tim@bastelstu.be> (@TimWolla)
+GitRepo: https://github.com/TimWolla/docker-adminer.git
+
+Tags: 4.8.1-standalone, 4-standalone, standalone, 4.8.1, 4, latest
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 9957ca52b8f442213fb116503dc7d0e18d4dc228
+Directory: 4
+
+Tags: 4.8.1-fastcgi, 4-fastcgi, fastcgi
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 9957ca52b8f442213fb116503dc7d0e18d4dc228
+Directory: 4/fastcgi

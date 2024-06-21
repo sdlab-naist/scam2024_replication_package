@@ -1,0 +1,9 @@
+Maintainers: Justin Cormack (@justincormack)
+GitRepo: https://github.com/docker/notary-official-images.git
+GitCommit: ff7ae14c71fa0f87f9e6bd8de81a78c20db66664
+
+Tags: server-0.5.0, server
+Directory: notary-server
+
+Tags: signer-0.5.0, signer
+Directory: notary-signer

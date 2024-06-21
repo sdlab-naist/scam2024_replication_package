@@ -1,0 +1,15 @@
+adminer,6,2,8
+notary,2,2,1
+oraclelinux,3,8,2
+clojure,9,73,2
+jetty,8,24,2
+maven,11,21,5
+rockylinux,3,1,2
+websphere-liberty,3,18,4
+buildpack-deps,3,30,9
+influxdb,4,16,3
+busybox,5,8,10
+postgres,6,24,8
+nginx,10,10,8
+sonarqube,5,10,2
+amazoncorretto,6,7,2

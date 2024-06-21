@@ -1,0 +1,46 @@
+Maintainers: Oracle Linux Product Team <ol-ovm-info_ww@oracle.com> (@Oracle)
+GitRepo: https://github.com/oracle/container-images.git
+GitCommit: 01a15ec99c7470a3391c691509db1759b41eaf66
+GitFetch: refs/heads/master
+# https://github.com/oracle/container-images/tree/dist-amd64
+amd64-GitFetch: refs/heads/dist-amd64
+amd64-GitCommit: 52339856c3cf67775e37b128952ba43c19507ab2
+# https://github.com/oracle/container-images/tree/dist-arm64v8
+arm64v8-GitFetch: refs/heads/dist-arm64v8
+arm64v8-GitCommit: 4a17af9c6111f19751a5dba3f558bc84a2a11028
+
+Tags: 8.2, 8
+Architectures: amd64, arm64v8
+Directory: 8.2
+
+Tags: 8.1
+Architectures: amd64, arm64v8
+Directory: 8.1
+
+Tags: 8.0
+Architectures: amd64, arm64v8
+Directory: 8.0
+
+Tags: 8-slim
+Architectures: amd64, arm64v8
+Directory: 8-slim
+
+Tags: 7.9, 7
+Architectures: amd64, arm64v8
+Directory: 7.9
+
+Tags: 7.8
+Architectures: amd64, arm64v8
+Directory: 7.8
+
+Tags: 7-slim
+Architectures: amd64, arm64v8
+Directory: 7-slim
+
+Tags: 6.10, 6
+Architectures: amd64
+Directory: 6.10
+
+Tags: 6-slim
+Architectures: amd64
+Directory: 6-slim
